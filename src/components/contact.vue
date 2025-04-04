@@ -1,6 +1,6 @@
 <template>
   <section class="row">
-    <div class="col-4 m-auto border p-3">
+    <div class="col-lg-4 col-md-6 col-11 m-auto p-3">
         <h1 class="m-2 text-center text-danger">
             Inscription
         </h1>
